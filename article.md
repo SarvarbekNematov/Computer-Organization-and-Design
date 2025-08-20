@@ -98,12 +98,12 @@ terabayt (TB) — Dastlab 1,099,511,627,776 (2⁴⁰) baytni anglatgan, ammo alo
 1.1-rasmda o‘nlik va ikkilik qiymatlar hamda ularning nomlari to‘liq ko‘rsatilgan.
 
 | Decimal term | Abbreviation | Value | Binary term | Abbreviation | Value | %Larger |
-|	       |              |       |             |              |       |         |
+|--------------|--------------|-------|-------------|--------------|-------|---------|
 | Kilobyte     |     KB       | 10³   | Kibibyte    |     KiB      |  2¹⁰  |   2%    |
 | Megabyte     |     MB       | 10⁶   | Mebibyte    |     MiB      |  2²⁰  |   5%    |
 | Gigabyte     |     GB       | 10⁹   | Gibibyte    |     GiB      |  2³⁰  |   7%    |
 | Terabyte     |     TB       | 10¹²  | Tebibyte    |     TiB      |  2⁴⁰  |   10%   |
-| Petabyte     |     PB       | 10¹⁵  | Pebibyte    |     PiB      |  2⁵⁰  |   13%   |
+| Petabyte     |     PB       | 10¹⁵  | Pebibyte    |     PiB      |  2⁵⁰  |   13%   |
 | Exabyte      |     EB       | 10¹⁸  | Exbibyte    |     EiB      |  2⁶⁰  |   15%   |
 | Zettabyte    |     ZB       | 10²¹  | Zebibyte    |     ZiB      |  2⁷⁰  |   18%   |
 | Yettabyte    |     YB       | 10²⁴  | Yobibyte    |     YiB      |  2⁸⁰  |   21%   |
